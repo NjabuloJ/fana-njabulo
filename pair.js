@@ -65,7 +65,8 @@ router.get('/', async (req, res) => {
 
 ════════════════════
 Developer Resources
-GitHub link: github.com/NjabuloJ/VW-GOLF 
+GitHub link: github.com/NjabuloJ/VW-GOLF
+GitHub link: github.com/NjabuloJ/Njabulo-Jb
 Channel link: https://shorturl.at/q8ZuS
 ╭─❖••• 𓆩  𓆪••• ❖─╮
    *Don't forget to*
