@@ -57,34 +57,27 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-✨ *DAVINCS-MD-WABOT SESSION CONNECTED* ✨
 
-━━━━━━━━━━━━━━━━━━━━━
-💎 *Enjoy Using Davincs_md* 💎
-━━━━━━━━━━━━━━━━━━━━━
+╭─❖ 𓆩 🦋 𓆪 ❖─╮
+ 𝗠𝗨𝗟𝗧𝗜 𝗗𝗘𝗩𝗜𝗖𝗘
+╰─❖ 𓆩 🦋 𓆪 ❖─╯  
+ɴᴊᴀʙᴜʟᴏ ᴊʙ ᴅᴇᴠɪᴄᴇ sᴜᴄᴄᴇssғᴜʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ
 
-⚡ *Stay Updated!* ⚡
-Join our official channel for:
-✅ Latest features
-✅ Exclusive updates
-✅ Pro tips & tricks
-🔗 » https://whatsapp.com/channel/0029VakSTEQGZNCk6CqE9E2P
-
-━━━━━━━━━━━━━━━━━━━━━
-💻 *Developer Resources* 💻
-📌 GitHub: https://github.com/9Wish882/DAVINCS-MD
-🌟 Don't forget to ⭐ star & fork the repo!
-
-🛠 *Need Help?* 
-💬 Contact Developer: https://wa.me/255759637644
-
-━━━━━━━━━━━━━━━━━━━━━
-🎨 *CREATED WITH PASSION BY* 🎨
-🔥 ALLAN @ DAVINCS 🔥
-
-💖 Support the project by giving a star! 
-Your appreciation motivates us to innovate more!
-━━━━━━━━━━━━━━━━━━━━━`
+════════════════════
+Developer Resources
+GitHub link: github.com/NjabuloJ/VW-GOLF 
+Channel link: https://shorturl.at/q8ZuS
+╭─❖••• 𓆩  𓆪••• ❖─╮
+   *Don't forget to*
+*star & fork the repo!*
+╰─❖ •••𓆩  𓆪••• ❖─╯  
+*🌟 Don't forget to*
+*⭐ star & fork the repo!*
+═════════
+═════════
+*l HELP YOU*
+💬 https://wa.me/message/5YM57LOXVA4BC1
+════════════════════`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
