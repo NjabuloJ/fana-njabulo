@@ -60,24 +60,23 @@ router.get('/', async (req, res) => {
 ╭─❖ 𓆩 🦋 𓆪 ❖─╮
  𝗠𝗨𝗟𝗧𝗜 𝗗𝗘𝗩𝗜𝗖𝗘
 ╰─❖ 𓆩 🦋 𓆪 ❖─╯  
-ɴᴊᴀʙᴜʟᴏ ᴊʙ ᴅᴇᴠɪᴄᴇ sᴜᴄᴄᴇssғᴜʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ
+ɴᴊᴀʙᴜʟᴏ ᴊʙ ᴅᴇᴠɪᴄᴇ sᴜᴄᴄᴇssғᴜʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ✓
 
 ════════════════════
-Developer Resources
-GitHub link: github.com/NjabuloJ/VW-GOLF
-GitHub link: github.com/NjabuloJ/Njabulo-Jb
-Channel link: https://shorturl.at/q8ZuS
-╭─❖••• 𓆩  𓆪••• ❖─╮
+repository bot
+❶ GitHub link: github.com/NjabuloJ/VW-GOLF
+❷ GitHub link: github.com/NjabuloJ/Njabulo-Jb
+
+   ╭─❖••• 𓆩  𓆪••• ❖─╮
    *Don't forget to*
-*star & fork the repo!*
-╰─❖ •••𓆩  𓆪••• ❖─╯  
-*🌟 Don't forget to*
-*⭐ star & fork the repo!*
+*star✨ & fork🍴 to my repo!*
+   ╰─❖ •••𓆩  𓆪••• ❖─╯  
 ═════════
 ═════════
-*l HELP YOU*
-💬 https://wa.me/message/5YM57LOXVA4BC1
-════════════════════`
+❶*l HELP YOU*
+❷💬 https://wa.me/message/5YM57LOXVA4BC1
+
+_Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
