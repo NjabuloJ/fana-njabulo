@@ -63,17 +63,16 @@ router.get('/', async (req, res) => {
 ɴᴊᴀʙᴜʟᴏ ᴊʙ ᴅᴇᴠɪᴄᴇ sᴜᴄᴄᴇssғᴜʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ✓
 
 ════════════════════
-repository bot
-❶ GitHub link: github.com/NjabuloJ/VW-GOLF
-❷ GitHub link: github.com/NjabuloJ/Njabulo-Jb
+❶repository bot
+❷ GitHub link: github.com/NjabuloJ/Njabulo-Jb-vw-golf
 
-   ╭─❖••• 𓆩  𓆪••• ❖─╮
+ ╭─❖••• 𓆩  𓆪••• ❖─╮
    *Don't forget to*
 *star✨ & fork🍴 to my repo!*
-   ╰─❖ •••𓆩  𓆪••• ❖─╯  
+ ╰─❖ •••𓆩  𓆪••• ❖─╯  
 ═════════
 ═════════
-❶*l HELP YOU*
+❶ *l HELP YOU*
 ❷💬 https://wa.me/message/5YM57LOXVA4BC1
 
 _Don't Forget To Give Star To My Repo_`
