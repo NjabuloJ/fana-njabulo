@@ -76,33 +76,7 @@ router.get('/', async (req, res) => {
 ❶ *l HELP YOU*
 ❷💬 https://wa.me/message/5YM57LOXVA4BC1
 
-_Don't Forget To Give Star To My Repo_`
- await Pair_Code_By_Gifted_Tech.
-     sendMessage(Pair_Code_By_Gifted_Tech.user.id,{
-     text:GIFTED_MD_TEXT,
-      contextInfo: {
-      isForwarded: true,
-      forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363345407274799@newsletter',
-      newsletterName: "╭••➤®Njabulo Jb",
-      serverMessageId: 143,
-    },
- },
-},{quoted:session})                  
- await Pair_Code_By_Gifted_Tech.
- sendMessage(Pair_Code_By_Gifted_Tech.user.id,{
-     audio: { url: AUDIO_URL }, 
-     mimetype: 'audio/mp4', 
-     ptt: true, // Voice note form
-      contextInfo: {
-      isForwarded: true,
-      forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363345407274799@newsletter',
-      newsletterName: "╭••➤®Njabulo Jb",
-      serverMessageId: 143,
-    },
- },
-},{quoted:session})
+
  
 
         await delay(100);
